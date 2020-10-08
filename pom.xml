@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.in</groupId>
-	<artifactId>java-11</artifactId>
+	<artifactId>java-basics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>java-11</name>
+	<name>java-basics</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
@@ -21,6 +21,14 @@
 	</properties>
 
 	<dependencies>
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
+		</dependency>
+		<dependency>
+			<groupId>com.google.code.gson</groupId>
+			<artifactId>gson</artifactId>
+		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>

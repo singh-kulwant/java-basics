@@ -1,4 +1,4 @@
-package com.in.async;
+package com.in.template.async;
 
 import java.util.Random;
 import java.util.concurrent.CompletableFuture;
