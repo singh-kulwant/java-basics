@@ -1,9 +1,9 @@
-package com.in.template.json;
+package com.template.json;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.google.gson.Gson;
-import com.in.template.json.model.Profiles;
+import com.template.json.model.Profiles;
 
 import java.io.IOException;
 import java.net.URL;

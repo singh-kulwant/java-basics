@@ -1,4 +1,4 @@
-package com.in.template.async;
+package com.template.async;
 
 import java.util.Random;
 import java.util.concurrent.Callable;

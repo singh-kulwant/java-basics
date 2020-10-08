@@ -1,4 +1,4 @@
-package com.in.template.json.model;
+package com.template.json.model;
 
 import java.util.List;
 

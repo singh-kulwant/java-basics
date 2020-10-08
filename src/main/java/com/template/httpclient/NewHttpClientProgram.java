@@ -1,4 +1,4 @@
-package com.in.template.httpclient;
+package com.template.httpclient;
 
 import java.io.IOException;
 import java.net.URI;
